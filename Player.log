@@ -10,188 +10,188 @@ Direct3D:
     VRAM:     1937 MB
     Driver:   23.20.16.4927
 Begin MonoManager ReloadAssembly
-- Completed reload, in  0.347 seconds
+- Completed reload, in  0.291 seconds
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 1.512982 ms
+UnloadTime: 1.974269 ms
 Command line arguments: -savedatafolder=C:\Users\user\AppData\LocalLow\Ludeon Studios\RimWorld by Ludeon Studios
 [Steamworks.NET] SteamAPI.Init() failed. Possible causes: Steam client not running, launched from outside Steam without steam_appid.txt in place, running with different privileges than Steam client (e.g. "as administrator") 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
 RimWorld 1.3.3242 rev954
 Save data folder overridden to C:\Users\user\AppData\LocalLow\Ludeon Studios\RimWorld by Ludeon Studios
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220EF442020.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220EF21E880.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220EF366040.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220EF6E26C0.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220EF7166D0.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220EF2D1030.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220EF7372E0.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220EF3A7010.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220CD5EA020.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220EF3B9A20.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220CD5EF830.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220EEEA0030.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220CD4182B0.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220EF77AB10.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220CD5C84E0.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220CD419CC0.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220EF7A3010.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220EF7A8020.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220EF21C060.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220EF7A9C30.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220EF7ABE40.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220EF7B7460.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220EF7BA870.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220CD5D4540.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220EF895AD0.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220EF96C010.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F00FC040.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F2C00080.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F2C26A90.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220EFADAC40.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220EFAEB850.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220EFAF7460.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F2CFFEB0.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F2DB2CD0.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F2E7BCF0.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F2EBE120.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220CDEB68C0.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F2EC3130.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F2EE4540.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F2EFE550.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F2F09F80.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F2F0D790.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220EF9FC1F0.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F2F1CDA0.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F2F369D0.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F2F3FFF0.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F2F41600.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F2F53A20.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F2F5CC30.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F3032010.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F3034C20.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F3046630.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F304EA40.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F307E860.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F3089870.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F30A9E90.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F30B4AA0.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F30C06C0.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F30C58D0.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F30C8AF0.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F30E5B00.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F3158020.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F3199440.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F327F070.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F3288C90.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F312E6A0.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F3368EC0.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F3370ED0.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F34372F0.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F344A310.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F35D2030.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220CDEC6900.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F36F1C60.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F36F4C70.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F3706690.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F370DEA0.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220EF2B98B0.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F37370D0.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F373ACE0.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F3745EF0.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220CDEBA8D0.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F374DD00.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F3767320.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F376E740.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F3779D50.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F37A0F60.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F385EF80.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F388D9A0.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F38917B0.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F38A59C0.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F38A91D0.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F398DBF0.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F3993200.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F3995C10.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F39ABC20.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F39B4C30.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F34FA510.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F3A74070.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F3A7AA80.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F3A9F2B0.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F3AA18C0.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F3AA34D0.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F3ACEAE0.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F3ADC2F0.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F3ADDB00.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F3AE8520.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F3BB1150.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F3BB2B60.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F3BEBA90.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220EF2238C0.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F3BC5180.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F3BF42A0.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F3BFD8B0.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F3C068C0.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F3500540.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F3BC7590.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F3C138E0.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F3C1A8F0.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F3C20900.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F3C2C110.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F3C30B20.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F3C35330.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F3C38B40.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F3C5CB50.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F3C7BB70.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F3BCC5A0.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F3C9BBA0.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F3CAABC0.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F3CB5BD0.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F3CBDBF0.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F3CC3C00.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F3CC6E10.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F3CF8030.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220CD40C120.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F40766F0.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F407BD00.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F4158930.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F416A740.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F41B1020.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F41B2830.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F41C4050.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F41C5860.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F41C9670.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F41EE290.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220EF2B70A0.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F3FBACC0.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F41F0EA0.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F42B78D0.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F42C30E0.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220EF2AD060.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F42CAEF0.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F42CD300.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F42CF110.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220CDECA910.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F42D0720.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F42EC160.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F42EF770.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F4305980.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F43DABA0.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F43E1BC0.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F44031E0.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F44C3BF0.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F44E0E10.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F4515E30.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F4625030.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F48B1120.dll
-[2/4/2022 11:03:32 PM] [BetterLoading] Verifying all mods loaded properly...
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000273FF0A2040.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000273FF026890.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000273FEE9C090.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000273FF343850.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000273FF377860.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000273DD1AF010.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000273FF398470.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000273FF3D3C90.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000273FF3E66A0.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000273DD1BAA30.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000273FF3EFEC0.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000273FEA561D0.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000273FEFCF040.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000273FF3F2ED0.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000273DD1AB740.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000273FF401B00.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000273FF403310.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000273FF408320.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000273FF02A4C0.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000273FF411F40.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000273FF414150.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000273FF425770.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000273FF42AB90.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000273DD1A5710.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000273FF4EDDC0.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000273FF5C4010.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-000002726207B040.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000273FF729C30.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000272622D0080.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000273FF758650.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000272622F8490.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000272623B50B0.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000272623B98C0.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-000002726246C6E0.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-000002726253D720.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-000002726257FB50.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000273DD357070.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-0000027262584B60.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000272625A5F70.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000273FF76B270.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000272625C7F90.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000272625CC7B0.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000273FF659220.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000272625DBDC0.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000272625F59F0.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000272625F7000.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000272625F8610.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-0000027262606A20.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-000002726260FC30.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000272626E6180.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000272626E8D90.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000272626FA7A0.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-000002726270ABC0.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-000002726273A9E0.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000272627459F0.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-0000027262766010.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-0000027262778C30.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-000002726277C840.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-0000027262781A50.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-0000027262782C60.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000272627F3020.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-0000027262817A40.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-0000027262858E60.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-000002726295EAA0.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000272629686C0.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000272627D9E90.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-0000027262A428F0.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-0000027262A4A900.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-0000027262B10D20.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-0000027262B23D40.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-0000027262C8B030.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000273DD3770F0.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-0000027262DB2C70.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-0000027262DC1CB0.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-0000027262DC36C0.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-0000027262DCAED0.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000273FEEDE060.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-0000027262DF20F0.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-0000027262DF5D00.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-0000027262E02F20.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000273DD35B080.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-0000027262E0AD30.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-0000027262E24350.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-0000027262E27760.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-0000027262E32D70.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-0000027262E59F80.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-0000027262F17FA0.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-0000027262F469C0.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-0000027262F4A7D0.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-0000027262F5E9E0.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-0000027262F621F0.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-0000027263052C30.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-0000027263058240.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-000002726305AC50.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-0000027263078C70.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-0000027263081C80.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-0000027262BABEF0.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-000002726314D0B0.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-0000027263157AD0.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000272631652F0.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-0000027263167900.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-0000027263169510.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000272631D6010.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000272631E3820.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000272631E5030.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000272631EFA50.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-0000027263217880.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-0000027263219290.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000272632372B0.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000273FF02B8D0.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-000002726323FAC0.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-0000027263241ED0.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-000002726324B4E0.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000272632544F0.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000272631A0BD0.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-000002726325D500.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-0000027263262510.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-0000027263269520.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-000002726326F530.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-000002726327AD40.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-000002726327F750.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-0000027263283F60.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-0000027263350E90.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-0000027263374EA0.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-0000027263393EC0.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-000002726328F780.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-0000027263291990.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000272633A3EE0.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000272632989A0.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000272633AEEF0.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000272633B4F00.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000272633B8110.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000272633FB220.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000273DCE8E0A0.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000272637503E0.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-0000027263757A00.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-0000027263828630.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-000002726383A440.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-0000027263867070.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-0000027263868880.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-000002726386A090.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-000002726387B8B0.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-000002726387F6C0.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000272638A42E0.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000273FEEE80A0.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000272636091F0.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000272638C8010.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-0000027263986A30.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-0000027263992240.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000273FEEE3080.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-000002726399A050.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-000002726399C460.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-000002726399E270.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000273DD37B100.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000272639A1890.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000272639B92C0.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000272639BC8D0.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000272639D2AE0.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-0000027263AA7D00.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-0000027263AACD10.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-0000027263ACE330.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-0000027263B8ED40.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-0000027263BABF60.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-0000027263C3E010.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000273DCEE0380.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000272640E00A0.dll
+[2/5/2022 10:57:56 PM] [BetterLoading] Verifying all mods loaded properly...
 [BetterLoading] Injecting into main UI.
 [BetterLoading] Injected into main UI.
 [HugsLib] version 9.0.1
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F52A30C0.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000273DD65B950.dll
 [HugsLib] early-initializing AllowTool
 [1.3]Graphics Setter - Loaded
 DubsMintMenus v1.3.995
@@ -201,16 +201,16 @@ dubwise.dubsbadhygiene 3.0.2138
 Rimatomics 1.7.2473
 RimSaves NX
 [RuntimeGC] Mod settings loaded.
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F71256E0.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F7150010.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-0000027265EA3030.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-0000027265EBBA70.dll
 ROCKETMAN: config path C:\Users\user\AppData\LocalLow\Ludeon Studios\RimWorld by Ludeon Studios\Config\rocketeer.0102.txt
 ROCKETMAN: dev environment detected! 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
 ROCKETMAN: Dev enviroment detected! Loading experimental plugins!
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F715B020.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F7167A30.dll
-Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-00000220F716F240.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-0000027265EC6A80.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-0000027265ED3490.dll
+Fallback handler could not load library C:/Users/user/Desktop/RimWorld.v1.3.3209/RimWorldWin64_Data/Mono/data-0000027265EDACA0.dll
 <color=orange>ROCKETMAN</color>: Loaded <color=red>Gagarin, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</color>
 <color=orange>ROCKETMAN</color>: Loaded <color=red>Proton, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</color>
 <color=orange>ROCKETMAN</color>: Loaded <color=red>Soyuz, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</color>
@@ -222,20 +222,20 @@ GAGARIN: <color=green>Cache not found or got purged!</color>
 GAGARIN: <color=green>Loading cache settings!</color>
 GAGARIN: <color=red>Gagarin is disabled!</color>
 SOYUZ: Created _transformationCache
-[BetterLoading] Finished stage Initializing Mods at 11:04:38 PM.
+[BetterLoading] Finished stage Initializing Mods at 10:59:17 PM.
 [BetterLoading] HugsLib detected, adding HugsLib support.
 [BetterLoading:HugsLib Compat] Resolved required HugsLib types as follows: Controller: HugsLib.HugsLibController / Mod Identifier (Property): ModIdentifier
 [BetterLoading:HugsLib Compat] Successfully blind-patched HugsLib.
 [BetterLoading] Starting stage Reading Mod Content Files.
 Rim73 1.4a Initialized
-[BetterLoading] Finished stage Reading Mod Content Files at 11:04:55 PM.
+[BetterLoading] Finished stage Reading Mod Content Files at 11:02:18 PM.
 [BetterLoading] Starting stage Injecting Mod XML.
 [BetterLoading] [Enhanced XML Load] Loaded 2551 loadable assets.
-[BetterLoading] Finished stage Injecting Mod XML at 11:04:59 PM.
+[BetterLoading] Finished stage Injecting Mod XML at 11:02:21 PM.
 [BetterLoading] Starting stage Applying Patches.
-[BetterLoading] Finished stage Applying Patches at 11:04:59 PM.
+[BetterLoading] Finished stage Applying Patches at 11:02:21 PM.
 [BetterLoading] Starting stage Registering Defs.
-[BetterLoading] Finished stage Registering Defs at 11:05:15 PM.
+[BetterLoading] Finished stage Registering Defs at 11:02:39 PM.
 [BetterLoading] Starting stage Constructing Defs.
 Parsed 4.5 as int. 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
@@ -438,10 +438,10 @@ Parsed 14.4 as int.
 Parsed 2.5 as int. 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-[BetterLoading] Finished stage Constructing Defs at 11:06:20 PM.
+[BetterLoading] Finished stage Constructing Defs at 11:03:55 PM.
 [BetterLoading] Starting stage Reloading Def Databases.
 [MadSkills]: changed behavior of Great Memory trait.
-[BetterLoading] Finished stage Reloading Def Databases at 11:06:49 PM.
+[BetterLoading] Finished stage Reloading Def Databases at 11:05:33 PM.
 [BetterLoading] Tips should now be available. Showing...
 [BetterLoading] Starting stage Running Post Content Load Callbacks.
 [BetterLoading] Processing 18289 post-load tasks.
@@ -479,7 +479,7 @@ ROCKETRULES: IgnoreMeRule for neronix17.outerrim.galaxies
 ROCKETRULES: IgnoreMeRule for spdskatr.projectrimfactory.drones
 ROCKETRULES: IgnoreMeRule for spdskatr.projectrimfactory.legacy
 ROCKETRULES: IgnoreMeRule for spdskatr.projectrimfactory
-[0.023639 seconds] ROCKETMAN: <color=red>IgnoreMe report</color>
+[0.943535 seconds] ROCKETMAN: <color=red>IgnoreMe report</color>
 ROCKETRULES: IgnoreMe add def by name: TM_StoneGolem
 ROCKETRULES: IgnoreMe add def by name: TM_SandstoneGolem
 ROCKETRULES: IgnoreMe add def by name: TM_LimestoneGolem
@@ -535,11 +535,11 @@ Type ShaderUtilities probably needs a StaticConstructorOnStartup attribute, beca
 Type TexTab probably needs a StaticConstructorOnStartup attribute, because it has a field Settings of type Texture2D. All assets must be loaded in the main thread. 
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-[BetterLoading] Finished stage Running Post Content Load Callbacks at 11:32:18 PM.
+[BetterLoading] Finished stage Running Post Content Load Callbacks at 12:18:17 AM.
 [BetterLoading] Starting stage Finalizing Mods.
 [OgreStack]: Modify Stack Sizes Complete
 [XML Extensions] Initialized 1 SettingsMenuDef(s) and found 0 unused key(s) from 0 mod(s)
-[XML Extensions] 1296 total patches run in 14812ms, 0 failed
+[XML Extensions] 1296 total patches run in 16326ms, 0 failed
 Loaded body addon variants for Alien_Heyra
 Loading variants for Heyra/Horns/Horn
 Variants found for Heyra/Horns/Horn: 6
@@ -672,7 +672,7 @@ Variants found for Dragonian_Horns/RightHorn: 3
 
 Alien race successfully completed 180 patches with harmony.
 <color=orange>[CSG]</color> Symbols Creator Started.
-<color=orange>[CSG]</color> Created 15376 symbolDefs for 3 mods. Took 00.20s.
+<color=orange>[CSG]</color> Created 15376 symbolDefs for 3 mods. Took 00.13s.
 Harvest Everything: successfully completed 4 harmony patches.
 Wall Light: v1.3.7890.36463
 AdjustableTradeShips Harmony Patches:
@@ -697,11 +697,11 @@ Androids: Fixing belts whitelist for AlienRace.ThingDef_AlienRace with defName='
 Biomes Map after Init: 3
 GAGARIN: <color=green>StartUpFinished called!</color>
 Rim73 cached 918 heddifs.
-[BetterLoading] Finished stage Finalizing Mods at 11:36:16 PM.
+[BetterLoading] Finished stage Finalizing Mods at 12:22:52 AM.
 [BetterLoading] Starting stage Running Post-Finalize Callbacks.
-[BetterLoading] Finished calling static constructors at 11:36:16 PM.
+[BetterLoading] Finished calling static constructors at 12:22:52 AM.
 [BetterLoading] Processing 3 post-finalize tasks.
-[BetterLoading] Finished stage Running Post-Finalize Callbacks at 11:36:20 PM.
+[BetterLoading] Finished stage Running Post-Finalize Callbacks at 12:22:54 AM.
 [BetterLoading] Starting stage Initializing HugsLib.
 [HugsLib] initializing ARimWorldOfMagic, ImprovedWorkbenches, Roolo.DualWield, MapReroll, NoJobAuthors, raceQuestPawn, RealisticRoomsRewritten, StackableChunks, fluffyKittens.BillCategories, PawnkindRaceDiversification
 [BetterLoading:HugsLib Compat] HugsLib has enumerated child mods, it has found 11 of them.
@@ -742,1032 +742,21 @@ vanillaRatio : 0.1
 [BetterLoading:HugsLib Compat] HugsLib has Loaded, Reloaded, and Initialized. Marking as done.
 [BetterLoading] Finished processing load list, hiding.
 [BetterLoading] Game load has finished. Timing data follows:
-Spent 85597.9275ms reading, building, and patching XML tree.
-Spent 81716.7251ms turning XML into def instances.
-Spent 614197.6328ms resolving cross-references and running post-load, pre-finalize callbacks.
-Spent 1185060.1918ms running static constructors (initializing mods).
-Spent -63779585780010.3ms running post-finalize callbacks.
-In total, spent 1974607.4433ms launching the game.
+Spent 264172.4776ms reading, building, and patching XML tree.
+Spent 93927.7998ms turning XML into def instances.
+Spent 3589131.5462ms resolving cross-references and running post-load, pre-finalize callbacks.
+Spent 1149535.1497ms running static constructors (initializing mods).
+Spent -63779674974159ms running post-finalize callbacks.
+In total, spent 5104682.3654ms launching the game.
 [MapReroll] Applied Prepare Carefully compatibility layer. Note: removing Prepare Carefully after starting a new game will now cause errors, but these can be safely ignored.
 [BetterLoading] Obtained lock, assuming we're done with post-finalize.
 ROCKETMAN: Hijacking ([REFLECTED] RimWorld.StatWorker:GetValue, [DECLARING] RimWorld.StatWorker:GetValue, [ISSTATIC] False, [ISPUBLIC] False, [ISVIRTUAL] StatWorker, [ABSTRACT] False)
-Transpiled 2147 methods, it took: 45.21398
-Loaded file (Scenario) is from version 1.3.3209 rev892, we are running version 1.3.3242 rev954. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 2)
-
-Unloading 59 unused Assets to reduce memory usage. Loaded Objects now: 37697.
-Total: 9705.529825 ms (FindLiveObjects: 3820.107602 ms CreateObjectMapping: 11.439532 ms MarkObjects: 5872.275088 ms  DeleteObjects: 1.706667 ms)
-
-Grammar recurred too deep while resolving keyword (>50 deep) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Grammar recurred too deep while resolving keyword (>50 deep) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 2)
-
-Unloading 62 unused Assets to reduce memory usage. Loaded Objects now: 37779.
-Total: 3285.173333 ms (FindLiveObjects: 6.978246 ms CreateObjectMapping: 83.859649 ms MarkObjects: 3186.670409 ms  DeleteObjects: 7.665029 ms)
-
-Tried to register the same load ID twice: null, pathRelToParent=/spawner, parent=Rabbie327 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not resolve reference to object with loadID Outfit_Anything1 of type RimWorld.Outfit. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=RimWorld.Pawn_OutfitTracker curPathRelToParent= 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not resolve reference to object with loadID DrugPolicy_Social drugs1 of type RimWorld.DrugPolicy. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=RimWorld.Pawn_DrugPolicyTracker curPathRelToParent= 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not resolve reference to object with loadID FoodRestriction_Lavish1 of type RimWorld.FoodRestriction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=RimWorld.Pawn_FoodRestrictionTracker curPathRelToParent= 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not resolve reference to object with loadID Outfit_Anything1 of type RimWorld.Outfit. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=RimWorld.Pawn_OutfitTracker curPathRelToParent= 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not resolve reference to object with loadID DrugPolicy_Social drugs1 of type RimWorld.DrugPolicy. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=RimWorld.Pawn_DrugPolicyTracker curPathRelToParent= 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not resolve reference to object with loadID FoodRestriction_Lavish1 of type RimWorld.FoodRestriction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=RimWorld.Pawn_FoodRestrictionTracker curPathRelToParent= 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not resolve reference to object with loadID Outfit_Anything1 of type RimWorld.Outfit. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=RimWorld.Pawn_OutfitTracker curPathRelToParent= 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not resolve reference to object with loadID DrugPolicy_Social drugs1 of type RimWorld.DrugPolicy. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=RimWorld.Pawn_DrugPolicyTracker curPathRelToParent= 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not resolve reference to object with loadID FoodRestriction_Lavish1 of type RimWorld.FoodRestriction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=RimWorld.Pawn_FoodRestrictionTracker curPathRelToParent= 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not resolve reference to object with loadID Outfit_Anything1 of type RimWorld.Outfit. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=RimWorld.Pawn_OutfitTracker curPathRelToParent= 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not resolve reference to object with loadID DrugPolicy_Social drugs1 of type RimWorld.DrugPolicy. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=RimWorld.Pawn_DrugPolicyTracker curPathRelToParent= 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not resolve reference to object with loadID FoodRestriction_Lavish1 of type RimWorld.FoodRestriction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=RimWorld.Pawn_FoodRestrictionTracker curPathRelToParent= 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not resolve reference to object with loadID Outfit_Anything1 of type RimWorld.Outfit. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=RimWorld.Pawn_OutfitTracker curPathRelToParent= 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not resolve reference to object with loadID DrugPolicy_Social drugs1 of type RimWorld.DrugPolicy. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=RimWorld.Pawn_DrugPolicyTracker curPathRelToParent= 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not resolve reference to object with loadID FoodRestriction_Lavish1 of type RimWorld.FoodRestriction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=RimWorld.Pawn_FoodRestrictionTracker curPathRelToParent= 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not resolve reference to object with loadID Outfit_Anything1 of type RimWorld.Outfit. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=RimWorld.Pawn_OutfitTracker curPathRelToParent= 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not resolve reference to object with loadID DrugPolicy_Social drugs1 of type RimWorld.DrugPolicy. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=RimWorld.Pawn_DrugPolicyTracker curPathRelToParent= 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not resolve reference to object with loadID FoodRestriction_Lavish1 of type RimWorld.FoodRestriction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=RimWorld.Pawn_FoodRestrictionTracker curPathRelToParent= 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not resolve reference to object with loadID Outfit_Anything1 of type RimWorld.Outfit. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=RimWorld.Pawn_OutfitTracker curPathRelToParent= 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not resolve reference to object with loadID DrugPolicy_Social drugs1 of type RimWorld.DrugPolicy. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=RimWorld.Pawn_DrugPolicyTracker curPathRelToParent= 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not resolve reference to object with loadID FoodRestriction_Lavish1 of type RimWorld.FoodRestriction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=RimWorld.Pawn_FoodRestrictionTracker curPathRelToParent= 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not resolve reference to object with loadID Outfit_Anything1 of type RimWorld.Outfit. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=RimWorld.Pawn_OutfitTracker curPathRelToParent= 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not resolve reference to object with loadID DrugPolicy_Social drugs1 of type RimWorld.DrugPolicy. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=RimWorld.Pawn_DrugPolicyTracker curPathRelToParent= 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not resolve reference to object with loadID FoodRestriction_Lavish1 of type RimWorld.FoodRestriction. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=RimWorld.Pawn_FoodRestrictionTracker curPathRelToParent= 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Could not get load ID. We're asking for something which was never added during LoadingVars. pathRelToParent=/spawner, parent=Jumper 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-[Prepare Carefully] Cannot find matching layer for apparel: DemonLordCloak.  Last layer: TM_Cloak 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-[Prepare Carefully] Cannot find matching layer for apparel: HSApparel_Haori.  Last layer: VFEC_OuterShell 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-[Prepare Carefully] Cannot find matching layer for apparel: HSApparel_Haori.  Last layer: VFEC_OuterShell 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-[Prepare Carefully] Cannot find matching layer for apparel: HSApparel_HeavyDo.  Last layer: VFEC_OuterShell 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-[Prepare Carefully] Cannot find matching layer for apparel: RK_HeavyShield.  Last layer: OuterClothing 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-[Prepare Carefully] Cannot find matching layer for apparel: RB_Camisole.  Last layer: RBUnder 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-[Prepare Carefully] Cannot find matching layer for apparel: RB_HighCloak.  Last layer: RBCape 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-[Prepare Carefully] Cannot find matching layer for apparel: Kurin_Underwear.  Last layer: Kurin_Underwear 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-[Prepare Carefully] Cannot find matching layer for apparel: Kurin_Underwear.  Last layer: Kurin_Underwear 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-[Prepare Carefully] Cannot find matching layer for apparel: HSApparel_Haori.  Last layer: VFEC_OuterShell 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-[Prepare Carefully] Loaded equipment database with 75 material(s)
-[Prepare Carefully] Loaded equipment database with 2782 item(s)
-Error finding style item for Sebastien 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-[Prepare Carefully] Could not find matching source pawn Verdant, Thing_ReviaRaceAlien515, + customSource. of type Hidden to add relationship 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-[Prepare Carefully] Could not find matching target pawn Eclipse, Thing_ReviaRaceAlien537 of type Hidden to add relationship 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-[Prepare Carefully] Could not find matching source pawn Beatriz, Thing_Human503, + customSource. of type Hidden to add relationship 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-[Prepare Carefully] Could not find matching target pawn Sebastien, Thing_Human509 of type Hidden to add relationship 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-[Prepare Carefully] Could not find matching source pawn Macy, Thing_Human490, + customSource. of type Hidden to add relationship 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-[Prepare Carefully] Could not find matching target pawn Pansy, Thing_Human496 of type Hidden to add relationship 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-[Prepare Carefully] Could not find matching target pawn Macy, Thing_Human490 of type Hidden to add relationship 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-[Prepare Carefully] Could not find matching target pawn Pansy, Thing_Human496 of type Hidden to add relationship 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-[Prepare Carefully] Could not find matching target pawn Beatriz, Thing_Human503 of type Hidden to add relationship 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-[Prepare Carefully] Could not find matching target pawn Beatriz, Thing_Human503 of type Hidden to add relationship 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-[Prepare Carefully] Could not find matching target pawn Sebastien, Thing_Human509 of type Hidden to add relationship 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-[Prepare Carefully] Could not find matching target pawn Sebastien, Thing_Human509 of type Hidden to add relationship 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-[Prepare Carefully] Could not find matching source pawn Alligator, Thing_ReviaRaceAlien521, + customSource. of type Hidden to add relationship 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-[Prepare Carefully] Could not find matching target pawn Verdant, Thing_ReviaRaceAlien515 of type Hidden to add relationship 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-[Prepare Carefully] Could not find matching source pawn Orange, Thing_ReviaRaceAlien527, + customSource. of type Hidden to add relationship 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-[Prepare Carefully] Could not find matching target pawn Verdant, Thing_ReviaRaceAlien515 of type Hidden to add relationship 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-[Prepare Carefully] Could not find matching source pawn Alligator, Thing_ReviaRaceAlien521, + customSource. of type Hidden to add relationship 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-[Prepare Carefully] Could not find matching target pawn Eclipse, Thing_ReviaRaceAlien537 of type Hidden to add relationship 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-[Prepare Carefully] Could not find matching source pawn Orange, Thing_ReviaRaceAlien527, + customSource. of type Hidden to add relationship 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-[Prepare Carefully] Could not find matching target pawn Eclipse, Thing_ReviaRaceAlien537 of type Hidden to add relationship 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Unloading 3 Unused Serialized files (Serialized files now loaded: 2)
-UnloadTime: 86.794854 ms
-
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 38345.
-Total: 3853.691696 ms (FindLiveObjects: 15.360936 ms CreateObjectMapping: 1042.343860 ms MarkObjects: 2794.768655 ms  DeleteObjects: 1.217310 ms)
-
-Initializing new game with mods:
-  - brrainz.harmony
-  - me.samboycoding.betterloading
-  - Ludeon.RimWorld
-  - Ludeon.RimWorld.Royalty
-  - Ludeon.RimWorld.Ideology
-  - UnlimitedHugs.HugsLib
-  - UnlimitedHugs.AllowTool
-  - Telefonmast.GraphicsSettings
-  - jecrell.jecstools
-  - EdB.PrepareCarefully
-  - Owlchemist.CherryPicker
-  - Torann.ARimworldOfMagic
-  - Kure.AROM
-  - Dubwise.DubsMintMenus
-  - imranfish.xmlextensions
-  - VouLT.BetterPawnControl
-  - machine.rtr
-  - ssulunge.BBBodySupport
-  - ssulunge.BBBodyAlienRaces
-  - ssulunge.BBBodyHuman
-  - erdelf.HumanoidAlienRaces
-  - OskarPotocki.VanillaFactionsExpanded.Core
-  - VanillaExpanded.VARME
-  - VanillaExpanded.VEE
-  - OskarPotocki.VanillaExpanded.RoyaltyPatches
-  - OskarPotocki.VFE.Insectoid
-  - OskarPotocki.VanillaFactionsExpanded.MedievalModule
-  - VanillaExpanded.VCEF
-  - VanillaExpanded.VCEFAddon
-  - VanillaExpanded.VFEArchitect
-  - VanillaExpanded.VFEFarming
-  - VanillaExpanded.VFEMedical
-  - VanillaExpanded.VFEPower
-  - VanillaExpanded.VFESecurity
-  - VanillaExpanded.VMemesE
-  - VanillaExpanded.VanillaSocialInteractionsExpanded
-  - VanillaExpanded.VWEC
-  - VanillaExpanded.VWEL
-  - Aelanna.EccentricTech.Core
-  - Aelanna.EccentricExtras.AngelHairs
-  - Aelanna.EccentricTech.FoxysArmory2
-  - Aelanna.EccentricTech.AngelApparel
-  - Aelanna.EccentricExtras.SignatureGear
-  - Aelanna.EccentricExtras.SignatureWeapons
-  - Aelanna.EccentricTech.AdvancedShields
-  - Uuugggg.ReplaceStuff
-  - NanoCE.GlassLights
-  - Haplo.Miscellaneous.Training
-  - itzal.vw
-  - Dubwise.DubsBadHygiene
-  - Dubwise.Rimatomics
-  - Ogliss.Ykara.HarvestEverything
-  - Owlchemist.CeilingUtilities
-  - Owlchemist.WallUtilities
-  - GT.Sam.TilledSoil
-  - Murmur.WallLight
-  - OskarPotocki.VanillaFactionsExpanded.SettlersModule
-  - Alaestor.QuantumCooling
-  - adjustabletradeships.kv.rw
-  - Oblitus.AnimalsLogic
-  - rimfridge.kv.rw
-  - falconne.BWM
-  - vat.epoeforked
-  - tarojun.epoeforked.DirectCraftingOnly
-  - vat.epoeforkedroyalty
-  - PeteTimesSix.CompactHediffs
-  - miyamiya.compressedraid.latest
-  - tikubonn.DontBlockDoor
-  - Roolo.DualWield
-  - ratys.madskills
-  - zylle.MapDesigner
-  - Herigony.MapEditTools
-  - UnlimitedHugs.MapReroll
-  - AmCh.needBarOverflow
-  - Unon.NoBurnMetal
-  - Doug.NoJobAuthors
-  - JBloodthorn.NoLazyDoctors
-  - 7H28J.nomoresleepingzs
-  - Taranchuk.PerformanceOptimizer
-  - legodude17.qualcolor
-  - hatti.qualitysurgeon
-  - Sandy.RPGStyleInventory.avilmask.Revamped
-  - com.yayo.raceQuestPawn
-  - Lucifer.RealisticRooms
-  - Jaxe.RimHUD
-  - aRandomKiwi.RimSaves
-  - erdelf.ShowModDesignators
-  - Mlie.SinglePlantTexturePatch
-  - dhultgren.smarterconstruction
-  - marvinkosh.sometimesraidsgowrong
-  - zhrocks11.stackablechunks
-  - Murmur.SubsurfaceConduit
-  - showhair.kv.rw
-  - OskarPotocki.VanillaExpanded.IdeologyPatches
-  - Scherub.StonecuttingExtended
-  - FluffyKittens.BillCategories
-  - goudaquiche.MoharFramework
-  - ChJees.Androids
-  - Heis.Edo.Themed.Expansion
-  - warlocksforge.fishtraps
-  - Bando.Heyrathehorned
-  - fridgeBaron.Immortals
-  - ssulunge.KijinRace2
-  - Nemonian.MY
-  - Solaris.RatkinRaceMod
-  - Farmradish.Nyaron
-  - solidwires.pawnkindracediversification
-  - RunneLatki.RabbieRaceMod
-  - sunny.RabbieEnglishPatch
-  - FS.ReviaRace
-  - Owlchemist.SmartFarming
-  - PuPa.InsectGirls
-  - Seioch.Kurin.HAR
-  - Vazrua.DragonianRacePrime2.0
-  - Owlchemist.ToggleableOverlays
-  - Fluffy.WorkTab
-  - VanillaExpanded.VanillaTraitsExpanded
-  - moretraitslots.kv.rw
-  - LingLuo.MoveSteamGeyser
-  - Ogre.OgreStack
-  - void.charactereditor
-  - trinity.RuntimeGCupdated
-  - Krkr.RocketMan
-  - GhostRolly.Rim73
-ROCKETMAN: <color=red>Warm up</color> started for new map!
-[Map Designer] Applying settings
-[Map Designer] Terrain settings: Default
-checking editor settings...
-Rim73 > Loaded new game, resetting caching variables 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-SOYUZ: Preset loaded!
-Orbitabl Trader On/Off Cycle applied.
-Unloading 0 Unused Serialized files (Serialized files now loaded: 2)
-
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 41731.
-Total: 3077.177076 ms (FindLiveObjects: 9.867602 ms CreateObjectMapping: 16.347135 ms MarkObjects: 3048.910409 ms  DeleteObjects: 2.050994 ms)
-
-[Map Designer] Applying settings
-[Map Designer] Terrain settings: Default
-[Map Designer] Applying settings
-[Map Designer] Terrain settings: Default
-[Map Designer] Applying settings
-[Map Designer] Terrain settings: Default
-[Map Designer] Applying settings
-[Map Designer] Terrain settings: Default
-[Map Designer] Applying settings
-[Map Designer] Terrain settings: Default
-[Map Designer] Applying settings
-[Map Designer] Terrain settings: Default
-[Map Designer] Applying settings
-[Map Designer] Terrain settings: Default
-[Map Designer] Applying settings
-[Map Designer] Terrain settings: Default
-[Map Designer] Applying settings
-[Map Designer] Terrain settings: Default
-[Map Designer] Applying settings
-[Map Designer] Terrain settings: Default
-[Map Designer] Applying settings
-[Map Designer] Terrain settings: Default
-[Map Designer] Applying settings
-[Map Designer] Terrain settings: Default
-[Map Designer] Applying settings
-[Map Designer] Terrain settings: Default
-[Map Designer] Applying settings
-[Map Designer] Terrain settings: Default
-[Map Designer] Applying settings
-[Map Designer] Terrain settings: Default
-[Map Designer] Applying settings
-[Map Designer] Terrain settings: Default
-[Map Designer] Applying settings
-[Map Designer] Terrain settings: Default
-[Map Designer] Applying settings
-[Map Designer] Terrain settings: Default
-[Map Designer] Applying settings
-[Map Designer] Terrain settings: Default
-[Map Designer] Applying settings
-[Map Designer] Terrain settings: Default
-[Map Desigher] Carving islands...
-[Map Designer] Creating multiple islands
-[Map Designer] Island Multispawn
-[Map Designer] Applying settings
-[Map Designer] Terrain settings: Default
-[Map Desigher] Carving islands...
-[Map Designer] Creating multiple islands
-[Map Designer] Island Multispawn
-[Map Designer] Applying settings
-[Map Designer] Terrain settings: Default
-[Map Desigher] Carving islands...
-[Map Designer] Creating multiple islands
-[Map Designer] Island Multispawn
-[Map Designer] Applying settings
-[Map Designer] Terrain settings: Default
-[Map Desigher] Carving islands...
-[Map Designer] Creating multiple islands
-[Map Designer] Island Multispawn
-[Map Designer] Applying settings
-[Map Designer] Terrain settings: Default
-[Map Desigher] Carving islands...
-[Map Designer] Creating multiple islands
-[Map Designer] Island Multispawn
-[Map Designer] Applying settings
-[Map Designer] Terrain settings: Default
-[Map Desigher] Carving islands...
-[Map Designer] Creating multiple islands
-[Map Designer] Island Multispawn
-[Map Designer] Applying settings
-[Map Designer] Terrain settings: Default
-[Map Desigher] Carving islands...
-[Map Designer] Creating multiple islands
-[Map Designer] Island Multispawn
-[Map Designer] Applying settings
-[Map Designer] Terrain settings: Default
-[Map Desigher] Carving islands...
-[Map Designer] Creating multiple islands
-[Map Designer] Island Multispawn
-[Map Designer] Applying settings
-[Map Designer] Terrain settings: Default
-[Map Designer] Applying settings
-[Map Designer] Terrain settings: Default
-[Map Designer] Applying settings
-[Map Designer] Terrain settings: Default
-[Map Designer] Applying settings
-[Map Designer] Terrain settings: Default
-[Map Designer] Applying settings
-[Map Designer] Terrain settings: Default
-[Map Designer] Applying settings
-[Map Designer] Terrain settings: Default
-[Map Designer] Applying settings
-[Map Designer] Terrain settings: Default
-[Map Designer] Applying settings
-[Map Designer] Terrain settings: Default
-[Map Designer] Applying settings
-[Map Designer] Terrain settings: Default
-[Map Designer] Applying settings
-[Map Designer] Terrain settings: Default
-[Map Designer] Applying settings
-[Map Designer] Terrain settings: Default
-[Map Designer] Applying settings
-[Map Designer] Terrain settings: Default
-[Map Designer] Applying settings
-[Map Designer] Terrain settings: Default
-[Map Designer] Applying settings
-[Map Designer] Terrain settings: Default
-[Map Designer] Applying settings
-[Map Designer] Terrain settings: Default
-[Map Designer] Applying settings
-[Map Designer] Terrain settings: Default
-[Map Designer] Applying settings
-[Map Designer] Terrain settings: Default
-[Map Designer] Applying settings
-[Map Designer] Terrain settings: Default
-ROCKETMAN: <color=red>Warm up ABORTED!</color> for new map!
-ROCKETMAN: <color=red>Warm up</color> started for new map!
-[Map Designer] Applying settings
-[Map Designer] Terrain settings: Default
-Scatterer Verse.GenStep_ScatterGroup could not find cell to generate at. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Scatterer Verse.GenStep_ScatterThings could not find cell to generate at. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Scatterer RimWorld.GenStep_ScatterRoadDebris could not find cell to generate at. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Scatterer RimWorld.GenStep_ScatterAncientMechs could not find cell to generate at. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Found no good central spot. Choosing randomly. numStand=5145, numDistrict=0, numTouch=1855, numDistrictCellCount=0, numExtraValidator=0 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-RandomAnimalSpawnCell_MapGen failed: numStand=949, numDistrict=0, numTouch=50. PlayerStartSpot=(137, 0, 160). Returning (99, 0, 113) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-RandomAnimalSpawnCell_MapGen failed: numStand=951, numDistrict=0, numTouch=46. PlayerStartSpot=(137, 0, 160). Returning (158, 0, 9) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-RandomAnimalSpawnCell_MapGen failed: numStand=960, numDistrict=0, numTouch=40. PlayerStartSpot=(137, 0, 160). Returning (174, 0, 196) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-RandomAnimalSpawnCell_MapGen failed: numStand=966, numDistrict=0, numTouch=34. PlayerStartSpot=(137, 0, 160). Returning (173, 0, 12) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-RandomAnimalSpawnCell_MapGen failed: numStand=946, numDistrict=0, numTouch=52. PlayerStartSpot=(137, 0, 160). Returning (109, 0, 140) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-RandomAnimalSpawnCell_MapGen failed: numStand=959, numDistrict=0, numTouch=39. PlayerStartSpot=(137, 0, 160). Returning (118, 0, 126) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-RandomAnimalSpawnCell_MapGen failed: numStand=946, numDistrict=0, numTouch=53. PlayerStartSpot=(137, 0, 160). Returning (64, 0, 220) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-RandomAnimalSpawnCell_MapGen failed: numStand=947, numDistrict=0, numTouch=52. PlayerStartSpot=(137, 0, 160). Returning (108, 0, 233) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-RandomAnimalSpawnCell_MapGen failed: numStand=953, numDistrict=0, numTouch=45. PlayerStartSpot=(137, 0, 160). Returning (193, 0, 220) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-RandomAnimalSpawnCell_MapGen failed: numStand=947, numDistrict=0, numTouch=52. PlayerStartSpot=(137, 0, 160). Returning (126, 0, 106) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-RandomAnimalSpawnCell_MapGen failed: numStand=956, numDistrict=0, numTouch=42. PlayerStartSpot=(137, 0, 160). Returning (248, 0, 82) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-RandomAnimalSpawnCell_MapGen failed: numStand=955, numDistrict=0, numTouch=45. PlayerStartSpot=(137, 0, 160). Returning (139, 0, 187) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-RandomAnimalSpawnCell_MapGen failed: numStand=953, numDistrict=0, numTouch=46. PlayerStartSpot=(137, 0, 160). Returning (153, 0, 228) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-RandomAnimalSpawnCell_MapGen failed: numStand=951, numDistrict=0, numTouch=47. PlayerStartSpot=(137, 0, 160). Returning (31, 0, 70) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-RandomAnimalSpawnCell_MapGen failed: numStand=947, numDistrict=0, numTouch=51. PlayerStartSpot=(137, 0, 160). Returning (146, 0, 156) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-RandomAnimalSpawnCell_MapGen failed: numStand=937, numDistrict=0, numTouch=62. PlayerStartSpot=(137, 0, 160). Returning (37, 0, 61) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-RandomAnimalSpawnCell_MapGen failed: numStand=958, numDistrict=0, numTouch=41. PlayerStartSpot=(137, 0, 160). Returning (149, 0, 80) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-RandomAnimalSpawnCell_MapGen failed: numStand=962, numDistrict=0, numTouch=38. PlayerStartSpot=(137, 0, 160). Returning (116, 0, 30) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-RandomAnimalSpawnCell_MapGen failed: numStand=947, numDistrict=0, numTouch=52. PlayerStartSpot=(137, 0, 160). Returning (166, 0, 214) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-RandomAnimalSpawnCell_MapGen failed: numStand=956, numDistrict=0, numTouch=43. PlayerStartSpot=(137, 0, 160). Returning (171, 0, 40) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-RandomAnimalSpawnCell_MapGen failed: numStand=954, numDistrict=0, numTouch=46. PlayerStartSpot=(137, 0, 160). Returning (236, 0, 91) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-RandomAnimalSpawnCell_MapGen failed: numStand=951, numDistrict=0, numTouch=47. PlayerStartSpot=(137, 0, 160). Returning (8, 0, 91) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-RandomAnimalSpawnCell_MapGen failed: numStand=954, numDistrict=0, numTouch=46. PlayerStartSpot=(137, 0, 160). Returning (37, 0, 48) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-RandomAnimalSpawnCell_MapGen failed: numStand=951, numDistrict=0, numTouch=49. PlayerStartSpot=(137, 0, 160). Returning (2, 0, 104) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-RandomAnimalSpawnCell_MapGen failed: numStand=958, numDistrict=0, numTouch=40. PlayerStartSpot=(137, 0, 160). Returning (237, 0, 173) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-RandomAnimalSpawnCell_MapGen failed: numStand=951, numDistrict=0, numTouch=47. PlayerStartSpot=(137, 0, 160). Returning (212, 0, 171) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-RandomAnimalSpawnCell_MapGen failed: numStand=959, numDistrict=0, numTouch=41. PlayerStartSpot=(137, 0, 160). Returning (243, 0, 145) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-RandomAnimalSpawnCell_MapGen failed: numStand=938, numDistrict=0, numTouch=60. PlayerStartSpot=(137, 0, 160). Returning (84, 0, 172) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-RandomAnimalSpawnCell_MapGen failed: numStand=947, numDistrict=0, numTouch=51. PlayerStartSpot=(137, 0, 160). Returning (149, 0, 211) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-RandomAnimalSpawnCell_MapGen failed: numStand=942, numDistrict=0, numTouch=55. PlayerStartSpot=(137, 0, 160). Returning (172, 0, 196) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-RandomAnimalSpawnCell_MapGen failed: numStand=961, numDistrict=0, numTouch=39. PlayerStartSpot=(137, 0, 160). Returning (173, 0, 144) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-RandomAnimalSpawnCell_MapGen failed: numStand=945, numDistrict=0, numTouch=52. PlayerStartSpot=(137, 0, 160). Returning (211, 0, 111) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-RandomAnimalSpawnCell_MapGen failed: numStand=945, numDistrict=0, numTouch=54. PlayerStartSpot=(137, 0, 160). Returning (43, 0, 164) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-RandomAnimalSpawnCell_MapGen failed: numStand=945, numDistrict=0, numTouch=55. PlayerStartSpot=(137, 0, 160). Returning (97, 0, 82) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-checking editor settings...
-Hare125906 on unwalkable cell (99, 0, 113). Teleporting to (110, 0, 126) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Rat125907 on unwalkable cell (158, 0, 9). Teleporting to (147, 0, 33) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Hare125908 on unwalkable cell (174, 0, 196). Teleporting to (135, 0, 177) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+Transpiled 2147 methods, it took: 42.1417
+Curl error 6: Could not resolve host: api.github.com
+ 
+(Filename:  Line: 853)
 
-Turkey125909 on unwalkable cell (173, 0, 12). Teleporting to (202, 0, 12) 
+[HugsLib][warn] Exception during log publishing (gist creation): System.Exception: Cannot resolve destination host
+  at HugsLib.Utils.HugsLibUtility+<>c__DisplayClass22_0.<AwaitUnityWebResponse>b__0 () [0x000a6] in <a56dbe2cf5184fe991f5fb736b3081b0>:0  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Squirrel125912 on unwalkable cell (64, 0, 220). Teleporting to (108, 0, 209) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Ibex125913 on unwalkable cell (108, 0, 233). Teleporting to (116, 0, 231) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Ibex125914 on unwalkable cell (108, 0, 233). Teleporting to (116, 0, 231) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Rat125915 on unwalkable cell (193, 0, 220). Teleporting to (138, 0, 230) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Squirrel125916 on unwalkable cell (126, 0, 106). Teleporting to (122, 0, 100) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Hare125917 on unwalkable cell (248, 0, 82). Teleporting to (215, 0, 19) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Rat125918 on unwalkable cell (139, 0, 187). Teleporting to (133, 0, 180) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Megasloth125919 on unwalkable cell (153, 0, 228). Teleporting to (138, 0, 230) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Raccoon125920 on unwalkable cell (31, 0, 70). Teleporting to (113, 0, 92) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Squirrel125921 on unwalkable cell (146, 0, 156). Teleporting to (141, 0, 156) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Tortoise125922 on unwalkable cell (37, 0, 61). Teleporting to (114, 0, 89) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Boomalope125923 on unwalkable cell (149, 0, 80). Teleporting to (161, 0, 91) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Boomalope125924 on unwalkable cell (149, 0, 80). Teleporting to (161, 0, 91) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Boomalope125925 on unwalkable cell (149, 0, 80). Teleporting to (161, 0, 91) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Rat125926 on unwalkable cell (116, 0, 30). Teleporting to (136, 0, 35) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Turkey125927 on unwalkable cell (166, 0, 214). Teleporting to (137, 0, 227) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Ibex125928 on unwalkable cell (171, 0, 40). Teleporting to (149, 0, 40) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Ibex125929 on unwalkable cell (171, 0, 40). Teleporting to (149, 0, 40) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Ibex125930 on unwalkable cell (171, 0, 40). Teleporting to (149, 0, 40) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Raccoon125931 on unwalkable cell (236, 0, 91). Teleporting to (163, 0, 91) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Bison125932 on unwalkable cell (8, 0, 91). Teleporting to (113, 0, 92) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Bison125933 on unwalkable cell (8, 0, 91). Teleporting to (113, 0, 92) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Bison125934 on unwalkable cell (8, 0, 91). Teleporting to (113, 0, 92) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Boomrat125935 on unwalkable cell (37, 0, 48). Teleporting to (114, 0, 89) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Hare125936 on unwalkable cell (2, 0, 104). Teleporting to (105, 0, 141) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Squirrel125937 on unwalkable cell (237, 0, 173). Teleporting to (141, 0, 165) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Rat125938 on unwalkable cell (212, 0, 171). Teleporting to (141, 0, 165) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Gazelle125939 on unwalkable cell (243, 0, 145). Teleporting to (163, 0, 93) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Gazelle125940 on unwalkable cell (243, 0, 145). Teleporting to (163, 0, 93) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Gazelle125941 on unwalkable cell (243, 0, 145). Teleporting to (163, 0, 93) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Gazelle125942 on unwalkable cell (243, 0, 145). Teleporting to (163, 0, 93) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Turkey125943 on unwalkable cell (84, 0, 172). Teleporting to (98, 0, 165) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Rat125944 on unwalkable cell (149, 0, 211). Teleporting to (135, 0, 225) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Raccoon125945 on unwalkable cell (172, 0, 196). Teleporting to (135, 0, 177) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Squirrel125946 on unwalkable cell (173, 0, 144). Teleporting to (141, 0, 141) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Turkey125947 on unwalkable cell (211, 0, 111). Teleporting to (163, 0, 93) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Turkey125948 on unwalkable cell (43, 0, 164). Teleporting to (98, 0, 164) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Gazelle125949 on unwalkable cell (97, 0, 82). Teleporting to (114, 0, 89) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Gazelle125950 on unwalkable cell (97, 0, 82). Teleporting to (114, 0, 89) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Gazelle125951 on unwalkable cell (97, 0, 82). Teleporting to (114, 0, 89) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Gazelle125952 on unwalkable cell (97, 0, 82). Teleporting to (114, 0, 89) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Gazelle125953 on unwalkable cell (97, 0, 82). Teleporting to (114, 0, 89) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Gazelle125954 on unwalkable cell (97, 0, 82). Teleporting to (114, 0, 89) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Gazelle125955 on unwalkable cell (97, 0, 82). Teleporting to (114, 0, 89) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Gazelle125956 on unwalkable cell (97, 0, 82). Teleporting to (114, 0, 89) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Gazelle125957 on unwalkable cell (97, 0, 82). Teleporting to (114, 0, 89) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Gazelle125958 on unwalkable cell (97, 0, 82). Teleporting to (114, 0, 89) 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-ROCKETMAN: <color=red>Warm up</color> Finished for new map!
-ROCKETMAN: Position verfication started!
-Object with load ID Thing_Human392 is referenced (xml node name: li) but is not deep-saved. This will cause errors during loading. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Object with load ID Thing_Human395 is referenced (xml node name: li) but is not deep-saved. This will cause errors during loading. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Object with load ID Thing_Human398 is referenced (xml node name: li) but is not deep-saved. This will cause errors during loading. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Object with load ID Thing_Human401 is referenced (xml node name: li) but is not deep-saved. This will cause errors during loading. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Object with load ID Thing_Human404 is referenced (xml node name: li) but is not deep-saved. This will cause errors during loading. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Object with load ID Thing_Human407 is referenced (xml node name: li) but is not deep-saved. This will cause errors during loading. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Object with load ID Thing_Human411 is referenced (xml node name: li) but is not deep-saved. This will cause errors during loading. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Object with load ID Thing_Human414 is referenced (xml node name: li) but is not deep-saved. This will cause errors during loading. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Object with load ID Thing_Human417 is referenced (xml node name: li) but is not deep-saved. This will cause errors during loading. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Object with load ID Thing_Human422 is referenced (xml node name: li) but is not deep-saved. This will cause errors during loading. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Object with load ID Thing_Human427 is referenced (xml node name: li) but is not deep-saved. This will cause errors during loading. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Object with load ID Thing_Human432 is referenced (xml node name: li) but is not deep-saved. This will cause errors during loading. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Object with load ID Thing_Human437 is referenced (xml node name: li) but is not deep-saved. This will cause errors during loading. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Object with load ID Thing_Human442 is referenced (xml node name: li) but is not deep-saved. This will cause errors during loading. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Object with load ID Thing_Human490 is referenced (xml node name: li) but is not deep-saved. This will cause errors during loading. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Object with load ID Thing_Human496 is referenced (xml node name: li) but is not deep-saved. This will cause errors during loading. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Object with load ID Thing_Human503 is referenced (xml node name: li) but is not deep-saved. This will cause errors during loading. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Object with load ID Thing_Human509 is referenced (xml node name: li) but is not deep-saved. This will cause errors during loading. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Object with load ID Thing_ReviaRaceAlien515 is referenced (xml node name: li) but is not deep-saved. This will cause errors during loading. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Object with load ID Thing_ReviaRaceAlien521 is referenced (xml node name: li) but is not deep-saved. This will cause errors during loading. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Object with load ID Thing_ReviaRaceAlien527 is referenced (xml node name: li) but is not deep-saved. This will cause errors during loading. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Object with load ID Thing_ReviaRaceAlien537 is referenced (xml node name: li) but is not deep-saved. This will cause errors during loading. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Object with load ID Thing_ReviaRaceAlien543 is referenced (xml node name: li) but is not deep-saved. This will cause errors during loading. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Object with load ID Thing_ReviaRaceAlien549 is referenced (xml node name: li) but is not deep-saved. This will cause errors during loading. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Object with load ID Thing_Human392 is referenced (xml node name: Pawn) but is not deep-saved. This will cause errors during loading. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Object with load ID Thing_Human395 is referenced (xml node name: Pawn) but is not deep-saved. This will cause errors during loading. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Object with load ID Thing_Human398 is referenced (xml node name: Pawn) but is not deep-saved. This will cause errors during loading. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Object with load ID Thing_Human401 is referenced (xml node name: Pawn) but is not deep-saved. This will cause errors during loading. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Object with load ID Thing_Human404 is referenced (xml node name: Pawn) but is not deep-saved. This will cause errors during loading. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Object with load ID Thing_Human407 is referenced (xml node name: Pawn) but is not deep-saved. This will cause errors during loading. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Object with load ID Thing_Human411 is referenced (xml node name: Pawn) but is not deep-saved. This will cause errors during loading. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Object with load ID Thing_Human414 is referenced (xml node name: Pawn) but is not deep-saved. This will cause errors during loading. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Object with load ID Thing_Human417 is referenced (xml node name: Pawn) but is not deep-saved. This will cause errors during loading. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Object with load ID Thing_Human422 is referenced (xml node name: Pawn) but is not deep-saved. This will cause errors during loading. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Object with load ID Thing_Human427 is referenced (xml node name: Pawn) but is not deep-saved. This will cause errors during loading. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Object with load ID Thing_Human432 is referenced (xml node name: Pawn) but is not deep-saved. This will cause errors during loading. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Object with load ID Thing_Human437 is referenced (xml node name: Pawn) but is not deep-saved. This will cause errors during loading. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Object with load ID Thing_Human442 is referenced (xml node name: Pawn) but is not deep-saved. This will cause errors during loading. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Object with load ID Thing_Human490 is referenced (xml node name: Pawn) but is not deep-saved. This will cause errors during loading. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Object with load ID Thing_Human496 is referenced (xml node name: Pawn) but is not deep-saved. This will cause errors during loading. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Object with load ID Thing_Human503 is referenced (xml node name: Pawn) but is not deep-saved. This will cause errors during loading. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Object with load ID Thing_Human509 is referenced (xml node name: Pawn) but is not deep-saved. This will cause errors during loading. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Object with load ID Thing_ReviaRaceAlien515 is referenced (xml node name: Pawn) but is not deep-saved. This will cause errors during loading. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Object with load ID Thing_ReviaRaceAlien521 is referenced (xml node name: Pawn) but is not deep-saved. This will cause errors during loading. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Object with load ID Thing_ReviaRaceAlien527 is referenced (xml node name: Pawn) but is not deep-saved. This will cause errors during loading. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Object with load ID Thing_ReviaRaceAlien537 is referenced (xml node name: Pawn) but is not deep-saved. This will cause errors during loading. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Object with load ID Thing_ReviaRaceAlien543 is referenced (xml node name: Pawn) but is not deep-saved. This will cause errors during loading. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Object with load ID Thing_ReviaRaceAlien549 is referenced (xml node name: Pawn) but is not deep-saved. This will cause errors during loading. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Object with load ID Thing_Alien_Kijin145 is referenced (xml node name: li) but is not deep-saved. This will cause errors during loading. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Object with load ID Thing_Mech_Lancer57452 is referenced (xml node name: li) but is not deep-saved. This will cause errors during loading. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Object with load ID Thing_Mech_Pikeman57454 is referenced (xml node name: li) but is not deep-saved. This will cause errors during loading. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Object with load ID Thing_Mech_Pikeman57603 is referenced (xml node name: li) but is not deep-saved. This will cause errors during loading. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Object with load ID Thing_Mech_Lancer57606 is referenced (xml node name: li) but is not deep-saved. This will cause errors during loading. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Object with load ID Thing_Mech_Pikeman57785 is referenced (xml node name: li) but is not deep-saved. This will cause errors during loading. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Object with load ID Thing_Mech_Pikeman57787 is referenced (xml node name: li) but is not deep-saved. This will cause errors during loading. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Object with load ID Thing_Mech_Pikeman57790 is referenced (xml node name: li) but is not deep-saved. This will cause errors during loading. 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Wrote screenshot C:\Users\user\AppData\LocalLow\Ludeon Studios\RimWorld by Ludeon Studios\RimSaves\Previews\New Arrivals4.jpg of size 245404
-Event.Use() should not be called for events of type Layout 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Exception in UIRootUpdate: System.IndexOutOfRangeException: Index was outside the bounds of the array.
-  at Verse.TerrainGrid.TerrainAt (Verse.IntVec3 c) [0x00017] in <fa195a3cbd1d4c2f94f4cab5942e6b6b>:0 
-  at MapEditTools.Designator_SetTerrain.CanDesignateCell (Verse.IntVec3 loc) [0x00006] in <c145d820810146199bbc6a3c3c119b85>:0 
-  at Verse.DesignationDragger.TryAddDragCell (Verse.IntVec3 c) [0x00006] in <fa195a3cbd1d4c2f94f4cab5942e6b6b>:0 
-  at Verse.DesignationDragger.UpdateDragCellsIfNeeded () [0x0026e] in <fa195a3cbd1d4c2f94f4cab5942e6b6b>:0 
-  at Verse.DesignationDragger.get_DragCells () [0x00000] in <fa195a3cbd1d4c2f94f4cab5942e6b6b>:0 
-  at Verse.DesignationDragger.DraggerUpdate () [0x0000b] in <fa195a3cbd1d4c2f94f4cab5942e6b6b>:0 
-  at Verse.DesignatorManager.DesignatorManagerUpdate () [0x00000] in <fa195a3cbd1d4c2f94f4cab5942e6b6b>:0 
-  at RimWorld.MapInterface.MapInterfaceUpdate () [0x00027] in <fa195a3cbd1d4c2f94f4cab5942e6b6b>:0 
-  at RimWorld.UIRoot_Play.UIRootUpdate () [0x00015] in <fa195a3cbd1d4c2f94f4cab5942e6b6b>:0  
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-Crash!!!
-SymInit: Symbol-SearchPath: '.;C:\Users\user\Desktop\RimWorld.v1.3.3209;C:\Users\user\Desktop\RimWorld.v1.3.3209;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 534, UserName: 'user'
-OS-Version: 10.0.0
-C:\Users\user\Desktop\RimWorld.v1.3.3209\RimWorldWin64.exe:RimWorldWin64.exe (00007FF6D2DB0000), size: 667648 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2019.4.30.51345
-C:\WINDOWS\SYSTEM32\ntdll.dll:ntdll.dll (00007FFF883B0000), size: 1966080 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.16299.214
-C:\Program Files\Avast Software\Avast\aswhook.dll:aswhook.dll (00007FFF7ADA0000), size: 90112 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 21.11.6809.0
-C:\WINDOWS\System32\KERNEL32.DLL:KERNEL32.DLL (00007FFF86010000), size: 712704 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.16299.15
-C:\WINDOWS\System32\KERNELBASE.dll:KERNELBASE.dll (00007FFF84DC0000), size: 2514944 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.16299.15
-C:\Users\user\Desktop\RimWorld.v1.3.3209\UnityPlayer.dll:UnityPlayer.dll (00007FFF339C0000), size: 27037696 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2019.4.30.51345
-C:\WINDOWS\System32\USER32.dll:USER32.dll (00007FFF86630000), size: 1634304 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.16299.125
-C:\WINDOWS\System32\win32u.dll:win32u.dll (00007FFF84CD0000), size: 131072 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.16299.15
-C:\WINDOWS\System32\GDI32.dll:GDI32.dll (00007FFF880F0000), size: 163840 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.16299.15
-C:\WINDOWS\System32\gdi32full.dll:gdi32full.dll (00007FFF84A80000), size: 1650688 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.16299.98
-C:\WINDOWS\System32\msvcp_win.dll:msvcp_win.dll (00007FFF85780000), size: 634880 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.16299.214
-C:\WINDOWS\System32\ucrtbase.dll:ucrtbase.dll (00007FFF84980000), size: 1007616 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.16299.214
-C:\WINDOWS\System32\ole32.dll:ole32.dll (00007FFF86940000), size: 1347584 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.16299.192
-C:\WINDOWS\System32\combase.dll:combase.dll (00007FFF85D00000), size: 3178496 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.16299.15
-C:\WINDOWS\System32\RPCRT4.dll:RPCRT4.dll (00007FFF86510000), size: 1175552 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.16299.192
-C:\WINDOWS\System32\bcryptPrimitives.dll:bcryptPrimitives.dll (00007FFF84D40000), size: 466944 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.16299.98
-C:\WINDOWS\System32\sechost.dll:sechost.dll (00007FFF882C0000), size: 372736 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.16299.15
-C:\WINDOWS\System32\SHLWAPI.dll:SHLWAPI.dll (00007FFF88320000), size: 331776 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.16299.15
-C:\WINDOWS\System32\msvcrt.dll:msvcrt.dll (00007FFF85C60000), size: 643072 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 7.0.16299.125
-C:\WINDOWS\System32\SETUPAPI.dll:SETUPAPI.dll (00007FFF860C0000), size: 4513792 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.16299.214
-C:\WINDOWS\SYSTEM32\VERSION.dll:VERSION.dll (00007FFF7BE80000), size: 40960 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.16299.15
-C:\WINDOWS\System32\cfgmgr32.dll:cfgmgr32.dll (00007FFF84CF0000), size: 303104 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.16299.15
-C:\WINDOWS\System32\ADVAPI32.dll:ADVAPI32.dll (00007FFF867C0000), size: 659456 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.16299.192
-C:\WINDOWS\System32\SHELL32.dll:SHELL32.dll (00007FFF86C00000), size: 21192704 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.16299.214
-C:\WINDOWS\System32\shcore.dll:shcore.dll (00007FFF85BB0000), size: 679936 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.16299.15
-C:\WINDOWS\System32\windows.storage.dll:windows.storage.dll (00007FFF85030000), size: 7630848 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.16299.214
-C:\WINDOWS\System32\kernel.appcore.dll:kernel.appcore.dll (00007FFF84720000), size: 69632 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.16299.15
-C:\WINDOWS\System32\powrprof.dll:powrprof.dll (00007FFF84740000), size: 311296 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.16299.15
-C:\WINDOWS\System32\profapi.dll:profapi.dll (00007FFF84700000), size: 110592 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.16299.15
-C:\WINDOWS\System32\OLEAUT32.dll:OLEAUT32.dll (00007FFF85AE0000), size: 806912 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.16299.15
-C:\WINDOWS\System32\IMM32.dll:IMM32.dll (00007FFF880C0000), size: 184320 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.16299.15
-C:\WINDOWS\System32\CRYPT32.dll:CRYPT32.dll (00007FFF847B0000), size: 1892352 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.16299.15
-C:\WINDOWS\System32\MSASN1.dll:MSASN1.dll (00007FFF84790000), size: 73728 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.16299.15
-C:\WINDOWS\System32\WS2_32.dll:WS2_32.dll (00007FFF86870000), size: 442368 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.16299.15
-C:\WINDOWS\SYSTEM32\WINMM.dll:WINMM.dll (00007FFF81FF0000), size: 143360 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.16299.15
-C:\WINDOWS\SYSTEM32\OPENGL32.dll:OPENGL32.dll (00007FFF6AA30000), size: 1171456 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.16299.15
-C:\WINDOWS\SYSTEM32\WINHTTP.dll:WINHTTP.dll (00007FFF7BD90000), size: 909312 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.16299.192
-C:\WINDOWS\SYSTEM32\bcrypt.dll:bcrypt.dll (00007FFF84260000), size: 151552 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.16299.125
-C:\WINDOWS\SYSTEM32\HID.DLL:HID.DLL (00007FFF834E0000), size: 49152 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.16299.15
-C:\WINDOWS\SYSTEM32\WINMMBASE.dll:WINMMBASE.dll (00007FFF81F90000), size: 172032 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.16299.15
-C:\WINDOWS\SYSTEM32\GLU32.dll:GLU32.dll (00007FFF74EB0000), size: 180224 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.16299.15
-C:\WINDOWS\system32\uxtheme.dll:uxtheme.dll (00007FFF82370000), size: 610304 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.16299.15
-C:\Users\user\Desktop\RimWorld.v1.3.3209\MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll:mono-2.0-bdwgc.dll (00007FFF313F0000), size: 7790592 (result: 0), SymType: '-deferred-', PDB: ''
-C:\WINDOWS\System32\PSAPI.DLL:PSAPI.DLL (00007FFF880A0000), size: 32768 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.16299.15
-C:\WINDOWS\SYSTEM32\iphlpapi.dll:iphlpapi.dll (00007FFF83D20000), size: 233472 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.16299.15
-C:\WINDOWS\System32\MSCTF.dll:MSCTF.dll (00007FFF86A90000), size: 1470464 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.16299.19
-C:\WINDOWS\system32\dwmapi.dll:dwmapi.dll (00007FFF82C40000), size: 172032 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.16299.15
-C:\WINDOWS\SYSTEM32\d3d11.dll:d3d11.dll (00007FFF81150000), size: 3022848 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.16299.214
-C:\WINDOWS\SYSTEM32\dxgi.dll:dxgi.dll (00007FFF83520000), size: 716800 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.16299.98
-C:\WINDOWS\System32\DriverStore\FileRepository\126602.inf_amd64_156e96e3ccc8e9b5\igd10iumd64.dll:igd10iumd64.dll (00007FFF7E630000), size: 20987904 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 23.20.16.4927
-C:\WINDOWS\SYSTEM32\ncrypt.dll:ncrypt.dll (00007FFF84230000), size: 155648 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.16299.15
-C:\WINDOWS\SYSTEM32\NTASN1.dll:NTASN1.dll (00007FFF841F0000), size: 221184 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.16299.15
-C:\WINDOWS\System32\DriverStore\FileRepository\126602.inf_amd64_156e96e3ccc8e9b5\igc64.dll:igc64.dll (00007FFF7C870000), size: 30990336 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 23.20.16.4927
-C:\WINDOWS\System32\clbcatq.dll:clbcatq.dll (00007FFF85A20000), size: 647168 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2001.12.10941.16384
-C:\WINDOWS\system32\wbem\wbemprox.dll:wbemprox.dll (00007FFF6EFA0000), size: 61440 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.16299.15
-C:\WINDOWS\SYSTEM32\wbemcomn.dll:wbemcomn.dll (00007FFF74090000), size: 528384 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.16299.15
-C:\WINDOWS\system32\wbem\wbemsvc.dll:wbemsvc.dll (00007FFF6C730000), size: 81920 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.16299.15
-C:\WINDOWS\system32\wbem\fastprox.dll:fastprox.dll (00007FFF6C750000), size: 983040 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.16299.15
-C:\WINDOWS\System32\MMDevApi.dll:MMDevApi.dll (00007FFF78240000), size: 454656 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.16299.15
-C:\WINDOWS\System32\DEVOBJ.dll:DEVOBJ.dll (00007FFF84510000), size: 159744 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.16299.15
-C:\WINDOWS\System32\PROPSYS.dll:PROPSYS.dll (00007FFF82820000), size: 1773568 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 7.0.16299.15
-C:\WINDOWS\SYSTEM32\AUDIOSES.DLL:AUDIOSES.DLL (00007FFF76600000), size: 1187840 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.16299.214
-C:\WINDOWS\SYSTEM32\wintypes.dll:wintypes.dll (00007FFF80470000), size: 1269760 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.16299.15
-C:\WINDOWS\SYSTEM32\AVRT.dll:AVRT.dll (00007FFF809D0000), size: 40960 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.16299.15
-C:\WINDOWS\SYSTEM32\xinput1_3.dll:xinput1_3.dll (0000000000400000), size: 122880 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 9.18.944.0
-C:\WINDOWS\SYSTEM32\dcomp.dll:dcomp.dll (00007FFF81B40000), size: 1318912 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.16299.15
-C:\WINDOWS\SYSTEM32\TextInputFramework.dll:TextInputFramework.dll (00007FFF7A6E0000), size: 622592 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.16299.192
-C:\WINDOWS\SYSTEM32\CoreUIComponents.dll:CoreUIComponents.dll (00007FFF805B0000), size: 3072000 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.16299.15
-C:\WINDOWS\SYSTEM32\CoreMessaging.dll:CoreMessaging.dll (00007FFF81440000), size: 901120 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.16299.192
-C:\WINDOWS\SYSTEM32\ntmarta.dll:ntmarta.dll (00007FFF83840000), size: 200704 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.16299.15
-C:\Users\user\Desktop\RimWorld.v1.3.3209\RimWorldWin64_Data\Plugins\x86_64\steam_api64.dll:steam_api64.dll (00007FFF33680000), size: 307200 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 5.25.65.21
-C:\WINDOWS\SYSTEM32\MSWSOCK.dll:MSWSOCK.dll (00007FFF83F90000), size: 417792 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.16299.15
-C:\WINDOWS\SYSTEM32\CRYPTBASE.DLL:CRYPTBASE.DLL (00007FFF84170000), size: 45056 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.16299.15
-C:\WINDOWS\SYSTEM32\CRYPTSP.dll:CRYPTSP.dll (00007FFF84150000), size: 94208 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.16299.15
-C:\WINDOWS\system32\rsaenh.dll:rsaenh.dll (00007FFF83BA0000), size: 208896 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.16299.15
-C:\WINDOWS\SYSTEM32\Msacm32.DLL:Msacm32.DLL (00007FFF7C190000), size: 114688 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.16299.15
-C:\Windows\System32\l3codeca.acm:l3codeca.acm (00007FFF7AC00000), size: 102400 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 1.9.0.401
-C:\WINDOWS\SYSTEM32\dbghelp.dll:dbghelp.dll (00007FFF830F0000), size: 1867776 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.16299.15
-C:\WINDOWS\SYSTEM32\SspiCli.dll:SspiCli.dll (00007FFF84600000), size: 196608 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.16299.192
-
-========== OUTPUTTING STACK TRACE ==================
-
-  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 00007FFF33E1202F)
-0x00007FFF33E1202F (UnityPlayer) (function-name not available)
-  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 00007FFF33E1209C)
-0x00007FFF33E1209C (UnityPlayer) (function-name not available)
-0x00007FFF3401ED7F (UnityPlayer) UnityMain
-  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 00007FFF33E12176)
-0x00007FFF33E12176 (UnityPlayer) (function-name not available)
-0x00007FFF3425C4FB (UnityPlayer) UnityMain
-  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 00007FFF33EC5FD5)
-0x00007FFF33EC5FD5 (UnityPlayer) (function-name not available)
-  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 00007FFF33ECF94D)
-0x00007FFF33ECF94D (UnityPlayer) (function-name not available)
-  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 00007FFF33ECFA28)
-0x00007FFF33ECFA28 (UnityPlayer) (function-name not available)
-0x00007FFF341FEEB8 (UnityPlayer) UnityMain
-0x00007FFF86021FE4 (KERNEL32) BaseThreadInitThunk
-0x00007FFF8841EFC1 (ntdll) RtlUserThreadStart
-
-========== END OF STACKTRACE ===========
 
-A crash has been intercepted by the crash handler. For call stack and other details, see the latest crash report generated in:
- * C:/Users/user/AppData/Local/Temp/Ludeon Studios/RimWorld by Ludeon Studios/Crashes
